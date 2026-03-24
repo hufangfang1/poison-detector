@@ -1,8 +1,8 @@
-# 二进制编码异常定位工具
+# Optimal Detector - 最优检测器定位工具
 
 基于二进制编码原理，用最少的检测器一次定位异常目标单元。
 
-![演示](poison-detector-final.png)
+![演示](optimal-detector-final.png)
 
 ## 核心原理
 
@@ -83,7 +83,7 @@ npm run preview
 ## 项目结构
 
 ```
-poison-detector/
+optimal-detector/
 ├── src/
 │   ├── App.vue           # 主应用组件
 │   ├── main.js           # 入口文件

@@ -1,7 +1,7 @@
-# Poison Detector 页面优化规格文档
+# Optimal Detector 页面优化规格文档
 
 > **Date:** 2026-03-24
-> **Project:** poison-detector UI 优化
+> **Project:** optimal-detector UI 优化
 
 ## 设计目标
 
